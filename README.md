@@ -35,7 +35,7 @@ My technical foundation is built around core concepts in modern information syst
 | **Core Concepts** | Robotics Fundamentals, AI Concepts, Information Systems, Systems Thinking |
 | **Programming** | Python (Basic), Computer Literacy |
 | **Data & Tools** | Data Analysis, GitHub |
-| **Certifications** | AI Governance Certification (Securiti Education) |
+| **Certifications** | AI Governance Certification (Securiti Education), Project: Deep Research with LangGraph (LangChain Academy), Foundation: Introduction to LangChain – Python (LangChain Academy) |
 
 <br>
 
@@ -44,7 +44,7 @@ My technical foundation is built around core concepts in modern information syst
   <img src="https://img.shields.io/badge/AI%20Concepts-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Concepts Badge"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-4479A1?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis Badge"/>
   <img src="https://img.shields.io/badge/Robotics-000000?style=for-the-badge&logo=ros&logoColor=white" alt="Robotics Badge"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>\n  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge"/>
 </div>
 
 ---
