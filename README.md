@@ -5,7 +5,7 @@
 <h1 align="center">Thomas Edward / Veallox</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thomas-edward-00000a000/">
+  <a href="https://za.linkedin.com/in/thomas-edward-32740a333">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:vealloxltd@gmail.com">
@@ -44,7 +44,8 @@ My technical foundation is built around core concepts in modern information syst
   <img src="https://img.shields.io/badge/AI%20Concepts-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Concepts Badge"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-4479A1?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis Badge"/>
   <img src="https://img.shields.io/badge/Robotics-000000?style=for-the-badge&logo=ros&logoColor=white" alt="Robotics Badge"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>\n  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge"/>
 </div>
 
 ---
@@ -62,12 +63,4 @@ My technical foundation is built around core concepts in modern information syst
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Veallox&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Thomas's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veallox&theme=dark&hide_border=true" alt="Thomas's GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Veallox/Veallox">
-    <img src="https://raw.githubusercontent.com/Veallox/Veallox/main/assets/footer.svg" alt="Footer Image - Feel free to replace this with a custom image or remove it">
-  </a>
 </div>
